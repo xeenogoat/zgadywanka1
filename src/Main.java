@@ -5,3 +5,6 @@ public class Main {
         System.out.println("Hello world!");
     }
 }
+
+system.out.println("Hello world");
+system.out.println("witamy na lekcjach prograsmowania");
